@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Instant Auto Care",
+    "rating": 4.7,
+    "distance": 2.4,
+    "location": "Sector 44, Gurgaon",
+    "isOpen": true,
+    "services": ["Car Service", "Battery", "Tyre"],
+    "address": "Plot 12, Sector 44, Gurgaon, Haryana 122003",
+    "workingHours": "Mon–Sat, 9:00 AM – 9:00 PM",
+    "phoneNumber": "+91 98765 43210"
+  },
+  {
+    "id": 2,
+    "name": "Pro Moto",
+    "rating": 4.5,
+    "distance": 4.1,
+    "location": "Gurgaon",
+    "isOpen": true,
+    "services": ["AC Repair", "Engine", "Brake"],
+    "address": "Shop 5, DLF Phase 3, Gurgaon, Haryana 122002",
+    "workingHours": "Mon–Sun, 8:00 AM – 10:00 PM",
+    "phoneNumber": "+91 98765 11223"
+  },
+  {
+    "id": 3,
+    "name": "Speedy Wheels Garage",
+    "rating": 4.2,
+    "distance": 1.1,
+    "location": "MG Road, Gurgaon",
+    "isOpen": false,
+    "services": ["Tyre", "Brake", "Car Service"],
+    "address": "12A, MG Road, Gurgaon, Haryana 122001",
+    "workingHours": "Mon–Sat, 10:00 AM – 7:00 PM",
+    "phoneNumber": "+91 98765 99887"
+  },
+  {
+    "id": 4,
+    "name": "GreenLine Auto Works",
+    "rating": 4.9,
+    "distance": 5.8,
+    "location": "Sohna Road, Gurgaon",
+    "isOpen": true,
+    "services": ["Battery", "AC Repair", "Engine"],
+    "address": "Sector 49, Sohna Road, Gurgaon, Haryana 122018",
+    "workingHours": "Mon–Sat, 9:30 AM – 8:30 PM",
+    "phoneNumber": "+91 98765 44556"
+  },
+  {
+    "id": 5,
+    "name": "Turbo Tyre Point",
+    "rating": 4.0,
+    "distance": 3.3,
+    "location": "Sector 29, Gurgaon",
+    "isOpen": false,
+    "services": ["Tyre", "Car Service"],
+    "address": "Sector 29 Market, Gurgaon, Haryana 122001",
+    "workingHours": "Mon–Sat, 9:00 AM – 6:00 PM",
+    "phoneNumber": "+91 98765 77665"
+  },
+  {
+    "id": 6,
+    "name": "Highway Motors",
+    "rating": 4.3,
+    "distance": 6.7,
+    "location": "NH-48, Gurgaon",
+    "isOpen": true,
+    "services": ["Engine", "Brake", "AC Repair", "Battery"],
+    "address": "Service Lane, NH-48, Gurgaon, Haryana 122004",
+    "workingHours": "Open 24 hours",
+    "phoneNumber": "+91 98765 22110"
+  },
+  {
+    "id": 7,
+    "name": "City Care Garage",
+    "rating": 3.8,
+    "distance": 0.9,
+    "location": "Sector 14, Gurgaon",
+    "isOpen": true,
+    "services": ["Car Service", "AC Repair"],
+    "address": "Old Railway Road, Sector 14, Gurgaon, Haryana 122001",
+    "workingHours": "Mon–Sat, 9:00 AM – 8:00 PM",
+    "phoneNumber": "+91 98765 33441"
+  },
+  {
+    "id": 8,
+    "name": "Precision Auto Works",
+    "rating": 4.8,
+    "distance": 7.2,
+    "location": "Golf Course Road, Gurgaon",
+    "isOpen": false,
+    "services": ["Engine", "Brake", "Tyre"],
+    "address": "Sector 54, Golf Course Road, Gurgaon, Haryana 122002",
+    "workingHours": "Mon–Sat, 10:00 AM – 7:00 PM",
+    "phoneNumber": "+91 98765 55678"
+  },
+  {
+    "id": 9,
+    "name": "Reliable Battery Hub",
+    "rating": 4.1,
+    "distance": 2.9,
+    "location": "Sector 31, Gurgaon",
+    "isOpen": true,
+    "services": ["Battery", "Car Service"],
+    "address": "Huda Market, Sector 31, Gurgaon, Haryana 122001",
+    "workingHours": "Mon–Sun, 8:30 AM – 9:30 PM",
+    "phoneNumber": "+91 98765 66889"
+  },
+  {
+    "id": 10,
+    "name": "MG Road Car Clinic",
+    "rating": 4.6,
+    "distance": 1.8,
+    "location": "MG Road, Gurgaon",
+    "isOpen": true,
+    "services": ["AC Repair", "Car Service", "Brake", "Tyre"],
+    "address": "MGF Metropolitan Mall Road, Gurgaon, Haryana 122002",
+    "workingHours": "Mon–Sat, 9:00 AM – 9:00 PM",
+    "phoneNumber": "+91 98765 12987"
+  }
+]
