@@ -6,6 +6,17 @@ A SwiftUI iOS assignment project demonstrating MVVM architecture, protocol-orien
 
 ---
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="https://github.com/poojak2008/InstantMechanic/raw/main/InstantMechanic/mechanic_list.png" width="210" alt="Mechanic List" />
+  <img src="https://github.com/poojak2008/InstantMechanic/raw/main/InstantMechanic/mechanic_detail.png" width="210" alt="Mechanic Details" />
+  <img src="https://github.com/poojak2008/InstantMechanic/raw/main/InstantMechanic/request_service.png" width="210" alt="Request Service" />
+  <img src="https://github.com/poojak2008/InstantMechanic/raw/main/InstantMechanic/confirmation.png" width="210" alt="Confirmation" />
+</p>
+
+---
+
 ## 📱 Overview
 
 **InstantMechanic** helps users discover nearby mechanics, view detailed profile information, and submit service requests.
