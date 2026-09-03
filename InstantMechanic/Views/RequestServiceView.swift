@@ -12,10 +12,7 @@ struct RequestServiceView: View {
     @StateObject private var viewModel: RequestServiceViewModel
     @Environment(\.dismiss) private var dismiss
 
-    /// Called once the request has been submitted successfully. The parent
-    /// (`MechanicDetailView`) uses this to close this form and present the
-    /// confirmation screen.
-    var onSubmitted: () -> Void = {}
+        var onSubmitted: () -> Void = {}
 
     init(mechanic: Mechanic, onSubmitted: @escaping () -> Void = {}) {
         _viewModel = StateObject(wrappedValue: RequestServiceViewModel(mechanic: mechanic))
